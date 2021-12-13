@@ -3,7 +3,7 @@
 # MTech-Dissertation
 This repository contains the required code files for mtech data science and engineering dissertation project on novel methods for indian stock market prediction.
 
-Codes are named as .ipynb files
+Codes are named as .ipynb files <br>
 Dataset are present inside Dataset/Indian folder
 
 # How to run
