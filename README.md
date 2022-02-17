@@ -29,21 +29,21 @@ Codes to reproduce mid-semester results are
 ## Endsemester results
 Codes to reproduce end-semester results are
 
-#TCS
+# TCS
 Use the version used in midsemester, although data preparation on comprehensive set was done using code below.
-1_EDA_DataPreprocess_1_TCS_v3.ipynb
-The best model can be obtained by running 2_Model_DL_v2.ipynb
+1. 1_EDA_DataPreprocess_1_TCS_v3.ipynb
+2. The best model can be obtained by running 2_Model_DL_v2.ipynb
 
-#HDFC
+# HDFC
 Use the version used in midsemester, although data preparation on comprehensive set was done using code below.
-1_EDA_DataPreprocess_1_TCS_v3.ipynb
-The best model can be obtained by running 2_Model_DL_v2.ipynb
+1. 1_EDA_DataPreprocess_1_TCS_v3.ipynb
+2. The best model can be obtained by running 2_Model_DL_v2.ipynb
 
-#MARUTI
+# MARUTI
 1. 1_EDA_DataPreprocess_1_MARUTI_v3.ipynb
 2.
 
-#HINDUNILVR
+# HINDUNILVR
 1. 1_EDA_DataPreprocess_1_HINDUNILVR_v3.ipynb
 
 
