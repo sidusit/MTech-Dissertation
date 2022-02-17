@@ -41,11 +41,11 @@ Use the version used in midsemester, although data preparation on comprehensive 
 
 # MARUTI
 1. 1_EDA_DataPreprocess_1_MARUTI_v3.ipynb
-2.
+2. 2_Model_DL_MARUTI_v7.ipynb
 
 # HINDUNILVR
 1. 1_EDA_DataPreprocess_1_HINDUNILVR_v3.ipynb
-
+2. 2_Model_DL_HINDUNILVR_v8.ipynb
 
 ## Auxiliary Codes
 All the codes apart from the ones used to produce baseline, midsemester or endsemester results are
