@@ -18,7 +18,7 @@ Hence the inclusion of macro ecnomic indicators or market behaviour helps in imp
 Codes to reproduce baseline results are
 1. EDA_DataPreprocess_v1.ipynb
 2. ARIMA_v1.ipynb
-3. DL_v2.ipynb
+3. DL_v2.ipynb <br>
 Datasets for baseline codes are present in the Dataset/Indian/StockPrice directory. So, change the old location during data read.
 
 ## Midsemester results
@@ -41,11 +41,11 @@ Use the version used in midsemester, although data preparation on comprehensive 
 
 # MARUTI
 1. 1_EDA_DataPreprocess_1_MARUTI_v3.ipynb
-2.
+2. 2_Model_DL_MARUTI_v7.ipynb
 
 # HINDUNILVR
 1. 1_EDA_DataPreprocess_1_HINDUNILVR_v3.ipynb
-
+2. 2_Model_DL_HINDUNILVR_v8.ipynb
 
 ## Auxiliary Codes
 All the codes apart from the ones used to produce baseline, midsemester or endsemester results are
